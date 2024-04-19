@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta property="og:title" content="Sheet Film Notch Codes" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://c222.tv/notch-codes/index.html" />
+  <meta property="og:image" content="http://c222.tv/notch-codes/thumb.png" />
+  <meta property="og:description" content="A catalog of sheet film notch codes." />
+  <meta name="theme-color" content="#FFFFFF">
+
+  <title>Sheet Film Notch Codes</title>
+
+  <link rel="stylesheet" href="/css/pubcss-ieee.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+  <link href="/js/bootstrap-table/bootstrap-table.min.css" rel="stylesheet">
+
+  <style>
+    @font-face {
+      font-family: 'NotchCodes';
+      src: url('NotchCodes.ttf') format('truetype');
+    }
+
+    td.code,
+    button.code,
+    input[type='text'].code {
+      font-family: 'NotchCodes';
+      font-size: 36pt;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <main class="container col-span">
+
+      <div class="toolbar">
+        <input type="text" class="code" id="code-search" />
+        <button class="btn btn-secondary code" id="0-key">0</button>
+        <button class="btn btn-secondary code" id="1-key">1</button>
+        <button class="btn btn-secondary code" id="2-key">2</button>
+        <button class="btn btn-secondary code" id="3-key">3</button>
+        <button class="btn btn-secondary code" id="4-key">4</button>
+        <button class="btn btn-secondary code" id="5-key">5</button>
+        <button class="btn btn-secondary code" id="6-key">6</button>
+        <button class="btn btn-secondary code" id="7-key">7</button>
+        <button class="btn btn-secondary code" id="8-key">8</button>
+        <button class="btn btn-secondary code" id="9-key">9</button>
+        <button class="btn btn-secondary code" id="K-key">K</button>
+        <button class="btn btn-secondary code" id="L-key">L</button>
+        <button class="btn btn-secondary code" id="A-key">A</button>
+        <button class="btn btn-secondary code" id="B-key">B</button>
+        <button class="btn btn-secondary code" id="C-key">C</button>
+        <button class="btn btn-secondary code" id="D-key">D</button>
+        <!-- <button class="btn btn-secondary code" id="E-key">E</button> -->
+        <!-- <button class="btn btn-secondary code" id="F-key">F</button> -->
+        <!-- <button class="btn btn-secondary code" id="G-key">G</button> -->
+        <!-- <button class="btn btn-secondary code" id="H-key">H</button> -->
+        <!-- <button class="btn btn-secondary code" id="I-key">I</button> -->
+        <button class="btn btn-secondary code" id="J-key">J</button>
+        <button class="btn btn-secondary" id="reset-search">Clear</button>
+      </div>
+
+      <table id="table" data-toggle="table" data-url="data.json" data-search="true" data-regex-search="true">
+        <thead>
+          <tr>
+            <th data-field="manufacturer" data-sortable="true" data-searchable="false">Film Manufacturer</th>
+            <th data-field="name" data-sortable="true" data-searchable="false">Name</th>
+            <th data-field="type" data-sortable="true" data-searchable="false">Type</th>
+            <th data-field="process" data-sortable="true" data-searchable="false">Process</th>
+            <th data-field="code" class="code">Notch Code</th>
+            <th data-field="document" data-searchable="false">Document</th>
+          </tr>
+        </thead>
+      </table>
+    </main>
+    <div class="references col-span">
+      <cite id="kodak2003">Kodak Professional Division, <q>Code Notches for KODAK Sheet Films,</q> Eastman Kodak
+        Company,
+        Rochester, NY, Mar. 2003. Accessed: Apr. 13, 2024. [Online]. Available: <a
+          href="http://125px.com/docs/unsorted/kodak/f3.pdf">http://125px.com/docs/unsorted/kodak/f3.pdf</a></cite>
+      <cite id="kodak1994">Eastman Kodak Company, <em>Reference Dataguide</em>. Rochester, NY: Eastman Kodak
+        Company, 1994.</cite>
+      <cite id="kodak1981">Eastman Kodak Company, <em>Kodak Professional Photoguide</em>, 1st ed. Rochester, NY:
+        Eastman
+        Kodak Company, 1981.</cite>
+      <cite id="ilford2017">Ilford Photo, <q>Notch Codes: Large Format Sheet Film,</q> Jun. 2017.
+        <a
+          href="https://www.ilfordphoto.com/wp/wp-content/uploads/2017/06/Notch-Codes-Guide..pdf">https://www.ilfordphoto.com/wp/wp-content/uploads/2017/06/Notch-Codes-Guide..pdf</a>
+        (accessed Apr. 15, 2024).</cite>
+      <cite id="kodak1956">Eastman Kodak Company, <em>Kodak Data Book: Kodak Films for Black-and-White Photography</em>,
+        7th ed. Rochester, NY: Eastman
+        Kodak Company, 1956.</cite>
+      <cite id="#photrio2013"><q>Help with old notch codes,</q> <em>Photrio.com Photography Forums</em>, Apr. 28, 2013.
+        <a
+          href="https://www.photrio.com/forum/threads/help-with-old-notch-codes.102579/">https://www.photrio.com/forum/threads/help-with-old-notch-codes.102579/</a>
+        (accessed Apr. 15, 2024).</cite>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+  <script src="/js/bootstrap-table/bootstrap-table.min.js"></script>
+  <script>
+    var code_search = $("#code-search");
+    var $table = $('#table')
+
+    do_search = () => {
+      // console.log(".*?" + code_search.val().split("").join(".*?") + ".*?");
+      // $table.bootstrapTable('filterBy', {
+      //   code: code_search.val()
+      // });
+      $("body > div > main > div.bootstrap-table.bootstrap5 > div.fixed-table-toolbar > div > input").val(".*?" + code_search.val().split("").join(".*?") + ".*?");
+      $("body > div > main > div.bootstrap-table.bootstrap5 > div.fixed-table-toolbar > div > input").trigger("keyup");
+    };
+
+    $("body > div > main > div.bootstrap-table.bootstrap5 > div.fixed-table-toolbar > div > input").hide();
+
+    $("button.code").on("click", (event) => {
+      code_search.val(code_search.val() + event.target.innerText);
+      do_search();
+    });
+    $("#reset-search").on("click", () => {
+      code_search.val("");
+      $table.bootstrapTable('resetSearch');
+    });
+  </script>
+
+</body>
+
+</html>

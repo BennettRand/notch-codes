@@ -1,0 +1,532 @@
+{
+  "rows": [
+    {
+      "manufacturer": "Kodak",
+      "name": "Universal Notch",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00000ABCD0",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Universal Notch",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0000211300",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Portra 160NC",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0009021130",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Portra 160VC",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0900021130",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Portra 400NC",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0099021130",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Portra 100T",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0909021130",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Pro 100 / PRN",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0050021300",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Commercial Internegative",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0000521300",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor II Professional Type S",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0000971180",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor III Professional Type S / VPS",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00050ABCD0",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor II Professional Type L",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "0009971180",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor II Professional Type L / VPL",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00055ABCD0",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor ID/Copy",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00009ABCD0",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor Internegative / 4112",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00550ABCD0",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Vericolor Print",
+      "type": "Color Negative",
+      "process": "C-41",
+      "code": "00500ABCD0",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Universal Notch",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0000071180",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 64 Professional / EPR",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0000711840",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 100 Professional / EPN",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0057118440",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 100 Plus Professional / EPP",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0007118440",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 50T Professional",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0004711840",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 64T Professional / EPY",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0004711840",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome E100G",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0557118500",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome E100S",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0007118900",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome E100SW",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0007189990",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome E100VS",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0000711850",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome E100X / EPZ",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0009971180",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome Lumiere 100 / LPP",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0007118990",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome 200 / EPD",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0447118440",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome Duplicating / 6121",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0447118400",
+      "document": "<a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome Duplicating EDUPE",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0907118900",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome Electronic Output 100",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0057118550",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektachrome Electronic Output 64T",
+      "type": "Color Positive",
+      "process": "E-6",
+      "code": "0097118900",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Universal Notch",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000060",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Technical Pan",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000060",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Commercial",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000004060",
+      "document": "<a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Commercial Matte",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000440460",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Commercial Ortho",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000004460",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Contrast Process Pan / 4155",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000044060",
+      "document": "<a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Contrast Process Ortho / 4154",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000440440",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Ektapan / PNT",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000460",
+      "document": "<a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "High Speed Infrared / HSI",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0040404060",
+      "document": "<a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "PLUS-X Pan Professional / PXT",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000040550",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Professional Copy",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000404550",
+      "document": "<a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "T-MAX 100 / 100TMX",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "00000JJJJ0",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "T-MAX 100 Professional / TMX",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000400400",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Royal Pan / 4141",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000040400",
+      "document": "<a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "T-MAX 400 / 400TMY",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000044600",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "TRI-X 320 / 320TXP",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000JJJ060",
+      "document": "<a href=\"#kodak2003\">2003</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "TRI-X Ortho / 4163",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000440550",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "TRI-X Pan Professional / TXT",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000044400",
+      "document": "<a href=\"#kodak2003\">2003</a><a href=\"#kodak1994\">1994</a><a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Super-XX Pan / 4142",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000440",
+      "document": "<a href=\"#kodak1981\">1981</a><a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Royal-X Pan",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000444060",
+      "document": "<a href=\"#kodak1981\">1981</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Royal-X Pan",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000400440",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Super Panchro-Press Type B",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000040",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Portrait Panchromatic",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000044440",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Panatomic-X",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000040040",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Royal Ortho",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000440550",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Kodak",
+      "name": "Super Speed Ortho Portrait",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000444060",
+      "document": "<a href=\"#kodak1956\">1956</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "Ortho Copy Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "000000L000",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "Ortho Copy Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000000900",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "FP4 Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "000KL00K00",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "FP4 Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0009000900",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "HP5 Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "000K00LK00",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "HP5 Plus",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0009900900",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "Delta 100 Professional",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "000KLL0K00",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    },
+    {
+      "manufacturer": "Ilford",
+      "name": "Delta 100 Professional",
+      "type": "Black and White",
+      "process": "BW",
+      "code": "0000999900",
+      "document": "<a href=\"#ilford2017\">2017</a>"
+    }
+  ]
+}
